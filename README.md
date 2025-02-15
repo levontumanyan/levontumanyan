@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# TryHackMe Profile
+### TryHackMe Profile
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/fibonacci011235.png)](https://tryhackme.com/p/fibonacci011235)
