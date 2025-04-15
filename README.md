@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/fibonacci011235.png?v=4)](https://tryhackme.com/p/fibonacci011235)
 
 ## Medium
-Connect with me on [Medium](https://medium.com/@levon.tumanyan), my goal this year is to write articles and get better at technical writing.
+Connect with me on [Medium](https://medium.com/@levon.tumanyan), my goal this year is to contribute articles and get better at technical writing.
