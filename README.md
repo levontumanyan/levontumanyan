@@ -1,4 +1,4 @@
-## Hola there 👋
+# Hola there 👋
 
 <!--
 **levontumanyan/levontumanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### TryHackMe Profile
+## TryHackMe Profile
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/fibonacci011235.png?v=4)](https://tryhackme.com/p/fibonacci011235)
+
+## Medium
+Connect with me on [Medium](https://medium.com/@levon.tumanyan)
